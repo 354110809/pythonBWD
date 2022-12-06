@@ -12,7 +12,7 @@
   "dependencies": {
     "element-ui": "^2.13.2",
     "highlight.js": "^10.1.1",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "vue-codemirror": "^4.0.6",
     "xterm": "^3.14.5"
   },
